@@ -19,3 +19,6 @@
 
 ## YOUR HERI-SOS ACCESS
 Click here for your [HERI-SOS] (https://marynapr.github.io/Heri-sos//) access.
+
+This was created by MarynaPR
+Feel free to contact me 
