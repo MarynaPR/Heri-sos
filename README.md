@@ -1,7 +1,7 @@
 # HERI-SOS
-<p align="center">
-!! [screenho0t1] (.screenshots/Screenshot1H.jpg)
-!! [screenshot2] (.screenshots/Screenshot2H.jpg)
+
+![screenho0t1] (.screenshots/Screenshot1H.jpg)
+![screenshot2] (.screenshots/Screenshot2H.jpg)
 
 ## GOALS
 * webpage meets accessibility standards 
@@ -21,5 +21,5 @@
 ## YOUR HERI-SOS ACCESS
 Click here for your [HERI-SOS] (https://marynapr.github.io/Heri-sos//) access.
 
-This was created by MarynaPR
-Feel free to contact me 
+This was created by MarynaPR. 
+Feel free to contact me with any questions.
