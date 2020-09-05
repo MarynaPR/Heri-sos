@@ -7,7 +7,6 @@
 body {
     background-color: #d9dcd6;
 }
-/* ! */
 
 header {
     padding: 20px;
@@ -50,16 +49,20 @@ a {
 p {
     font-size: 16px;
 }
-
-.hero {
+/* url link removed */
+.hero-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    /* background-image: url("../images/digital-marketing-meeting.jpg"); */
     background-size: cover;
     background-position: center;
 }
-
+/* img added */
+.hero-image img {
+    height: 100%;
+    width: 100%;
+}
 .float-left {
     float: left;
     margin-right: 25px;
@@ -101,7 +104,6 @@ main {
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff; */
-}
 
 .benefit h3 {
     margin-bottom: 10px;
