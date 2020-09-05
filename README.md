@@ -24,4 +24,4 @@
 Click here for your [HERI-SOS] (https://marynapr.github.io/Heri-sos//) access.
 
 This document was created by MarynaPR. 
-Feel free to contact me with any questions via email @ pryadkamaryna@gmail.com.
+Feel free to contact me with any questions via email pryadkamaryna@gmail.com.
