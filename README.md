@@ -1,7 +1,7 @@
 # HERI-SOS
 
-![screenho0t1] (.screenshots/Screenshot1H.jpg)
-![screenshot2] (.screenshots/Screenshot2H.jpg)
+![screenshot1] (.heri-sos/screenshots/Screenshot1H.jpg)
+![screenshot2] (.heri-sos/screenshots/Screenshot2H.jpg)
 
 ## GOALS
 * webpage meets accessibility standards 
@@ -15,7 +15,7 @@
 ## DESIGN PROCESS
 
 ## TECHNOLOGY USED
-* HTML
+* HTML5
 * CSS
 
 ## YOUR HERI-SOS ACCESS
