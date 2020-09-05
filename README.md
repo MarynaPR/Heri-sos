@@ -1,7 +1,7 @@
 # HERI-SOS
 
-![screenshot1] (./assets/images/Screenshot1H.jpg)
-![screenshot2] (./assets/images/Screenshot2H.jpg)
+![screenshot1] (./Users/maryna 1/Desktop/Heri-sos//assets/images/Screenshot1H.jpg)
+![screenshot2] (./Users/maryna 1/Desktop/Heri-sos/assets//images/Screenshot2H.jpg)
 
 ## GOALS
 * webpage meets accessibility standards 
