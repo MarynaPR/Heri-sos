@@ -1,7 +1,8 @@
 # HERI-SOS
 <p align="center">
-<img align="center" src="screenshots/screenshot2h">
-<img align="center" src="screenshots/screenshot1h">
+!! [screenho0t1] (.screenshots/Screenshot1H.jpg)
+!! [screenshot2] (.screenshots/Screenshot2H.jpg)
+
 ## GOALS
 * webpage meets accessibility standards 
 * HTML has semantic elements
