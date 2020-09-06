@@ -21,8 +21,8 @@
 * HTML5
 * CSS
 
-### YOUR HERI-SOS ACCESS
-Click here for your [HERI-SOS] (https://marynapr.github.io/Heri-sos//) access.
+### HERI-SOS WEB ACCESS
+Click here for the [HERI-SOS] access (https://marynapr.github.io/Heri-sos//) 
 
 This document was created by MarynaPR. 
 Feel free to contact me with any questions via email pryadkamaryna@gmail.com.
