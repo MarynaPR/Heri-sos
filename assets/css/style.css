@@ -78,6 +78,7 @@ main {
     display: inline-block;
     margin-left: 20px;
 }
+/* CSS selectors and properties are consolidated and organized below to follow semantic structure */
 /* consolidate class */
 
 .benefits {
@@ -95,7 +96,7 @@ main {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* consolidated */
 /* .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -109,7 +110,7 @@ main {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* consolidated */
 /* .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;

@@ -5,10 +5,8 @@
 ![screenshot2](./assets/images/Screenshot2H.jpg)
 
 ### GOALS
-* webpage meets accessibility standards 
-* HTML has semantic elements
-* HTML elements follow a logical structutre
-* alt attributes are present in the image elements
+* webpage meets accessibility standards with alt attributes present in the image elements
+* HTML has semantic elements and follows a logical structutre
 * heading attributes fall in sequantial order
 * title is consise and descriptive
 
@@ -21,7 +19,7 @@
 * HTML5
 * CSS
 
-### HERI-SOS WEB ACCESS
+### WEB ACCESS
 Click here for the [HERI-SOS] access (https://marynapr.github.io/Heri-sos//) 
 
 This document was created by MarynaPR. 
