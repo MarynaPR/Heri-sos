@@ -23,7 +23,7 @@
 * CSS
 
 ### web access  :repeat_one:
-Click here for the access  to [HERI-SOS](https://marynapr.github.io/Heri-sos//) 
+Click here for the access  to [HERI-SOS](https://marynapr.github.io/Heri-sos/) 
 
 ### questions :question: 
 
